@@ -1,0 +1,7 @@
+1.启动login的npm run dev之外;
+
+2.还得启动node数据库( mongod --dbpath 拖拽zqq文件夹进命令行 --port 27018 ).
+
+3.启动运行server.js项目.
+
+4.正常操作.
